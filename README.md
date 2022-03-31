@@ -3,7 +3,7 @@
 # Multi-level Modeling course (2022 Spring)
 course sub-material for Multi-level Modeling
 
-  - Week 1 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w1) | [ R Shiny app ](https://apsta.shinyapps.io/StatCompWeek1/)
+  - Week 1 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w1) | [ R Shiny app ](https://apsta.shinyapps.io/MLM_W1/) | [ Jamboard ](https://jamboard.google.com/d/1gV2_v10hDhzzeKTVrXwSJ8rLKIuWNQDnieDE4W5hQTI/viewer)
 
   - Week 2 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w2) | [ R Shiny app ](https://apsta.shinyapps.io/StatCompWeek2/)
 
@@ -16,9 +16,3 @@ course sub-material for Multi-level Modeling
   - Week 6 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w6) | [ R Shiny app ](https://apsta.shinyapps.io/StatCompWeek6/)
 
   - Week 7 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w7) | [ R Shiny app ](https://apsta.shinyapps.io/StatCompWeek7/)
-
-  - Week 8 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w8) | [ R Shiny app ](https://apsta.shinyapps.io/StatCompWeek8/)
-
-  - Week 9 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w9) | [ R Shiny app ](https://apsta.shinyapps.io/StatCompWeek9/)
-
-  - Week 10 - [ codes & slides ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w10) | [  R Shiny app ](https://apsta.shinyapps.io/StatCompWeek10/)
