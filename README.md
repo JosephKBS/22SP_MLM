@@ -13,5 +13,5 @@ course sub-material for Multi-level Modeling
   
   - Week 5 - [ Handout 5 ](https://brightspace.nyu.edu/content/enforced/186015-SP22_APSTA-GE_2042_7W2_001/MLMSp22handout5.pdf) | [ Jamboard ](https://jamboard.google.com/d/1NVRXMLLXT-yPgIAkvQbYzpj16NZL_MaWEZoMt9mITrQ/viewer) | [ Lab 2 ](https://apsta.shinyapps.io/MLM-Centering/)
   
-  - Week 6 - [ Handout 5 ](https://brightspace.nyu.edu/content/enforced/186015-SP22_APSTA-GE_2042_7W2_001/MLMSp22handout6.pdf) | [ Jamboard ](https://jamboard.google.com/d/1NVRXMLLXT-yPgIAkvQbYzpj16NZL_MaWEZoMt9mITrQ/viewer)
+  - Week 6 - [ Handout 6 ](https://brightspace.nyu.edu/content/enforced/186015-SP22_APSTA-GE_2042_7W2_001/MLMSp22handout6.pdf) | [ Jamboard ](https://jamboard.google.com/d/1NVRXMLLXT-yPgIAkvQbYzpj16NZL_MaWEZoMt9mITrQ/viewer)
 
